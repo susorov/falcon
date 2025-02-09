@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: falcon
+  main:
+    banner-mode: off
+server:
+  servlet:
+    context-path: /falcon

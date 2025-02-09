@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Ignore Maven build output and configuration files
+target/
+.mvn/
